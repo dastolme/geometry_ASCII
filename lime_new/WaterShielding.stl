@@ -1,0 +1,170 @@
+solid Visualization Toolkit generated SLA File
+ facet normal -0 0 -1
+  outer loop
+   vertex -300 835 760
+   vertex 1500 835 760
+   vertex -300 -165 760
+  endloop
+ endfacet
+ facet normal 0 -0 -1
+  outer loop
+   vertex -300 -165 760
+   vertex 1500 835 760
+   vertex 1500 -165 760
+  endloop
+ endfacet
+ facet normal 0 -1 0
+  outer loop
+   vertex -300 835 760
+   vertex -300 835 -240
+   vertex 1500 835 760
+  endloop
+ endfacet
+ facet normal 0 -1 0
+  outer loop
+   vertex 1500 835 760
+   vertex -300 835 -240
+   vertex 1500 835 -240
+  endloop
+ endfacet
+ facet normal 0 0 1
+  outer loop
+   vertex -300 -165 -240
+   vertex 1500 -165 -240
+   vertex -300 835 -240
+  endloop
+ endfacet
+ facet normal 0 -0 1
+  outer loop
+   vertex -300 835 -240
+   vertex 1500 -165 -240
+   vertex 1500 835 -240
+  endloop
+ endfacet
+ facet normal 0 1 0
+  outer loop
+   vertex -300 -165 -240
+   vertex -300 -165 760
+   vertex 1500 -165 -240
+  endloop
+ endfacet
+ facet normal -0 1 0
+  outer loop
+   vertex 1500 -165 -240
+   vertex -300 -165 760
+   vertex 1500 -165 760
+  endloop
+ endfacet
+ facet normal -1 -0 0
+  outer loop
+   vertex 1500 -165 760
+   vertex 1500 835 760
+   vertex 1500 -165 -240
+  endloop
+ endfacet
+ facet normal -1 0 -0
+  outer loop
+   vertex 1500 -165 -240
+   vertex 1500 835 760
+   vertex 1500 835 -240
+  endloop
+ endfacet
+ facet normal 1 0 0
+  outer loop
+   vertex -300 -165 760
+   vertex -300 -165 -240
+   vertex -300 835 760
+  endloop
+ endfacet
+ facet normal 1 0 0
+  outer loop
+   vertex -300 835 760
+   vertex -300 -165 -240
+   vertex -300 835 -240
+  endloop
+ endfacet
+ facet normal 1 0 0
+  outer loop
+   vertex 1920 -585 1180
+   vertex 1920 -585 -660
+   vertex 1920 1255 1180
+  endloop
+ endfacet
+ facet normal 1 0 0
+  outer loop
+   vertex 1920 1255 1180
+   vertex 1920 -585 -660
+   vertex 1920 1255 -660
+  endloop
+ endfacet
+ facet normal -1 -0 0
+  outer loop
+   vertex -720 -585 1180
+   vertex -720 1255 1180
+   vertex -720 -585 -660
+  endloop
+ endfacet
+ facet normal -1 0 -0
+  outer loop
+   vertex -720 -585 -660
+   vertex -720 1255 1180
+   vertex -720 1255 -660
+  endloop
+ endfacet
+ facet normal 0 1 0
+  outer loop
+   vertex -720 1255 1180
+   vertex 1920 1255 1180
+   vertex -720 1255 -660
+  endloop
+ endfacet
+ facet normal 0 1 0
+  outer loop
+   vertex -720 1255 -660
+   vertex 1920 1255 1180
+   vertex 1920 1255 -660
+  endloop
+ endfacet
+ facet normal 0 0 1
+  outer loop
+   vertex -720 1255 1180
+   vertex -720 -585 1180
+   vertex 1920 1255 1180
+  endloop
+ endfacet
+ facet normal 0 0 1
+  outer loop
+   vertex 1920 1255 1180
+   vertex -720 -585 1180
+   vertex 1920 -585 1180
+  endloop
+ endfacet
+ facet normal 0 -1 0
+  outer loop
+   vertex -720 -585 -660
+   vertex 1920 -585 -660
+   vertex -720 -585 1180
+  endloop
+ endfacet
+ facet normal 0 -1 0
+  outer loop
+   vertex -720 -585 1180
+   vertex 1920 -585 -660
+   vertex 1920 -585 1180
+  endloop
+ endfacet
+ facet normal 0 0 -1
+  outer loop
+   vertex -720 -585 -660
+   vertex -720 1255 -660
+   vertex 1920 -585 -660
+  endloop
+ endfacet
+ facet normal 0 0 -1
+  outer loop
+   vertex 1920 -585 -660
+   vertex -720 1255 -660
+   vertex 1920 1255 -660
+  endloop
+ endfacet
+endsolid
